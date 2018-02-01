@@ -1,0 +1,22 @@
+Some keylogging programs may include functionality for recording user data besides keystrokes, such as capturing anything that has been copied to the clipboard and taking screenshots of the user's screen or a single application.
+
+
+
+Keylogger is spy software to be installed on a computer or a spying device to be plugged into a computer. Basic keylogger saves all text typed using a computer keyboard. Advanced models have more functions like taking screenshots, sending reports to e-mail, storing history of browsing and opened apps.
+
+Installation of software keylogger, which sends logs on a pre-defined e-mail address, usually takes less than a minute. Thanks to a keylogger that sends stored data straight to your e-mail, you just need to open your inbox to learn what pages a person spied on visited, what messages they wrote and to whom and more.
+
+    Do you suspect your spouse or partner of cheating?
+    Does it seem that someone uses your computer when you are not around, even though only you know the password?
+    Do you want to check on your employees whether they work honestly or are cyberslackers?
+    Are you worried that your child spends too much time in front of a computer and hides from you conversations with strangers or visit porn sites?
+
+
+the purpose of this project is to implement a keylogger.
+that will-
+
+1. save all text typed on a computer keyboard.
+
+2. capture anything that has been copied to the clipboard.
+
+3. send logs on a pre defined e-mail address.
