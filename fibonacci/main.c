@@ -8,6 +8,7 @@ int main()
     for(int i=1;i<10;i++)
     {
          int z=10/(i-u);
+         printf("%d",z);
     }
     return 0;
 }
